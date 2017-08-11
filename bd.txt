@@ -1,0 +1,9 @@
+Cent
+Para la división del euro, véase Centésimo (fracción).
+
+Comparación entre los intervalos (relación entre dos frecuencias) musicales temperados (rojo) y pitagóricos (azul), mostrando la relación entre las frecuencias y los intervalos en cents. Los intervalos mostrados son (de izquierda a derecha): * el unísono * la segunda menor * la segunda mayor * la tercera menor * la tercera mayor * la cuarta justa * el tritono * la quinta justa * la sexta menor * la sexta mayor * la séptima menor * la séptima mayor * la octava.
+En acústica musical, el cent es la menor unidad usual que se emplea para medir intervalos musicales. Equivale a una centésima de semitono temperado. En acústica, todas las divisiones de intervalos se hacen de forma logarítmica.
+
+Debido a que el cent se define a partir del sistema temperado, los intervalos de este sistema tienen un número de cents que siempre es múltiplo de 100 (por ejemplo el intervalo de quinta, que contiene 7 semitonos, tiene 700 cents). En cambio los intervalos físicos o puros tienen un número distinto. Por ejemplo la quinta pura, perfecta o pitagórica, de razón 3:2, que tiene 702 cents).
+
+El cent se utiliza como unidad de medida para cuantificar intervalos, y también para comparar intervalos semejantes en distintos sistemas de afinación.
